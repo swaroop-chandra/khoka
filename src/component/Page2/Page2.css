@@ -1,0 +1,101 @@
+h3.page2_header {
+  font-size: 14px;
+  color: #122a44;
+  margin: auto;
+}
+.register_box {
+  background: #ffffff;
+  box-shadow: 0px 2px 2px rgb(0 0 0 / 15%);
+  border-radius: 0px 0px 4px 4px;
+  margin-top: -12px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.page2_border_bottom {
+  border-bottom: 0.5px solid #c4c4c4;
+  width: 85%;
+  display: flex;
+  margin-bottom: 8px;
+}
+
+.margin_left {
+  margin: 0 25px;
+}
+
+.page2_bill_box {
+  display: flex;
+  width: 85%;
+  justify-content: space-between;
+}
+.flex_bottom {
+  display: flex;
+  align-items: flex-end;
+}
+p.page2_duration {
+  color: #122a44;
+  font-weight: 600;
+  font-size: 12px;
+  margin: 0;
+  margin-top: 10px;
+}
+p.page2_amount {
+  font-size: 14px;
+  font-weight: 600;
+  color: #122a44;
+  margin: 0;
+  margin-top: 2px;
+}
+.red {
+  color: #ff7d7d;
+}
+p.page2_note {
+  font-size: 11px;
+  margin: 5px 0;
+}
+.green_background {
+  background: #e4fbea;
+}
+
+p.page2_note1 {
+  padding: 5px 10px;
+  width: 100%;
+  font-size: 11px;
+  margin: 0;
+}
+.flex_between {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  margin-top: 18px;
+}
+img.back_button {
+  margin-left: 10px;
+  width: 95px;
+}
+.page2_reg_button.blue {
+  background: #122a44;
+  box-shadow: 0px 2px 2px rgb(0 0 0 / 20%);
+  border-radius: 4px;
+  margin: 8px 12px;
+  width: 120px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #00adef;
+  font-size: 13px;
+}
+p.page2_lable {
+  font-size: 11px;
+  color: #777999;
+}
+p.page2_loc_name {
+  height: 35px;
+  color: #122a44;
+  font-size: 14px;
+  display: flex;
+  align-content: flex-end;
+  font-weight: 600;
+  align-items: center;
+}

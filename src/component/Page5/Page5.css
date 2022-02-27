@@ -1,0 +1,22 @@
+img.gif_loading {
+  width: 50%;
+}
+h1.page5 {
+  font-size: 22px;
+  text-align: left;
+}
+.page1_container {
+  padding: 10px;
+}
+.padding_side20 {
+  padding: 0 20px;
+}
+p.page5_p1 {
+  font-size: 11px;
+  font-family: "Cabin", sans-serif !important;
+  letter-spacing: 3.27692px;
+  margin-top: 25px;
+}
+.page5_p2 {
+  font-size: 14px;
+}

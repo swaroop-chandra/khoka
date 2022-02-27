@@ -1,0 +1,152 @@
+.box_left {
+  text-align: left;
+  margin-left: 15px;
+}
+.blue {
+  color: #00adef;
+}
+h2.page3_h2 {
+  font-size: 15px;
+  height: 40px;
+}
+
+h2.page3_h21 {
+  color: #000000;
+  font-size: 14px;
+  margin: 0;
+  line-height: 30px;
+  margin-top: 10px;
+}
+input.page3_number {
+  width: 92%;
+  font-size: 16px !important;
+  padding: 8px 12px;
+  font-weight: 600;
+  border: 0.5px solid #a6a7b3;
+  box-sizing: border-box;
+  border-radius: 4px;
+}
+p.page3_p2 {
+  text-align: right;
+  text-decoration: underline;
+  font-size: 11px;
+  margin: 5px 25px;
+}
+
+img.camera_image {
+  width: 60px;
+  height: 70px;
+  margin: 0;
+  position: absolute;
+  margin-left: -5px;
+}
+.page3_frontcam {
+  display: flex;
+  align-items: center;
+  background: #fbf9e4;
+  width: 92%;
+  height: 45px;
+  font-size: 10px;
+  color: #575757;
+  margin: 25px 0;
+  justify-content: flex-start;
+}
+.margin_top_red {
+  margin-top: -4px;
+  position: absolute;
+  margin-left: 4px;
+}
+img.camera_image {
+  width: 70px;
+  height: 70px;
+  margin: 0;
+  position: absolute;
+  margin-left: -5px;
+}
+p.page3_capsh3 {
+  margin-left: 85px;
+}
+h3.page3_h3 {
+  font-size: 13px;
+  color: #122a44;
+  border-bottom: 0.5px solid #c4c4c4;
+  width: 76%;
+  height: 35px;
+}
+p.page3_capsh31 {
+  font-size: 12px;
+  margin-left: 15px;
+}
+img.camera1_image {
+  width: 35px;
+  height: 35px;
+  margin-left: 8px;
+}
+p.page3_underline {
+  border-bottom: 0.5px solid;
+  width: 35%;
+  font-size: 12px;
+  line-height: 25px;
+  margin: 0;
+  margin-bottom: 15px;
+}
+img.next_button {
+  margin: 0;
+  margin-right: 25px;
+}
+
+.grey1 {
+  color: #bdbdbd;
+}
+.otp_small_boxes {
+  z-index: 5;
+  color: #000000;
+}
+
+.opt_input {
+  width: 210px;
+  height: 80px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.page3_number2 {
+  width: 92%;
+  font-size: 16px !important;
+  padding: 8px 12px;
+  font-weight: 600;
+  box-sizing: border-box;
+  border-radius: 4px;
+}
+
+.green {
+  color: #8adb89;
+  border: 0.5px solid rgba(22, 183, 19, 0.64);
+}
+.red1 {
+  color: #992424;
+  border: 0.5px solid #d92121a3;
+}
+
+img.camera_image1 {
+  width: 100px;
+  height: 70px;
+  margin: 0;
+  position: absolute;
+  margin-left: -46px;
+}
+.page3_frontcam1 {
+  display: flex;
+  align-items: center;
+  background: #8adb89;
+  width: 85%;
+  height: 45px;
+  color: #ffffff;
+  font-size: 10px;
+  margin: 25px 0;
+  justify-content: space-between;
+  margin-left: 20px;
+  font-weight: 700;
+  font-size: 16px;
+  padding: 8px;
+}
